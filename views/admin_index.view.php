@@ -1,5 +1,4 @@
 <?php require '../views/header.php'; ?>
-<h1>Hola mundo</h1>
 <div class="contenedor">
 	<h2>Panel de Control</h2>
 	<a href="nuevo.php" class="btn">Nuevo Post</a>
