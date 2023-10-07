@@ -1,5 +1,6 @@
 <?php require '../views/header.php'; ?>
 <div class="contenedor">
+	<h3>Pruebas</h3>
 	<h2>Panel de Control</h2>
 	<a href="nuevo.php" class="btn">Nuevo Post</a>
 	<a href="cerrar.php" class="btn">Cerrar Sesion</a>
