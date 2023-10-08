@@ -2,7 +2,7 @@
     define('RUTA','http://localhost/tarik-php-udemy/practicas/blog');
 
     $bd_config = array(
-        'basedatos' => 'blog_practica',
+        'basedatos' => 'blog_practicas2',
         'usuario' => 'root',
         'pass' => ''
     );
